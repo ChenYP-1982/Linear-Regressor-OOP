@@ -12,6 +12,6 @@ Avaliação do modelo: Métricas de desempenho, como RMSE, MAE, R-squared, são 
 
 # Conjunto de Dados
 
-O projeto utiliza um conjunto de dados (insira o link para o conjunto de dados) que contém informações sobre produtos e seus preços históricos. O conjunto de dados inclui atributos como tamanho, marca, categoria, entre outros.
+O projeto utiliza um conjunto de dados ([https://github.com/ChenYP-1982/Linear-Regressor-OOP/blob/main/C%E2%94%9C%E2%94%82pia%20de%20CarPrice_Assignment.csv]) que contém informações sobre produtos e seus preços históricos. O conjunto de dados inclui atributos como tamanho, marca, categoria, entre outros.
 
 
